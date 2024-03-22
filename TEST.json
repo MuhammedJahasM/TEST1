@@ -1,0 +1,633 @@
+{
+    "numFound": 772,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": 
+        {
+            "key": "/works/OL37625390W",
+            "type": "work",
+            "seed": [
+                "/books/OL50726609M",
+                "/works/OL37625390W",
+                "/authors/OL12634985A",
+                "/authors/OL13512970A",
+            {
+            "title": "History of Middle-Earth Box Set #1",
+            "title_sort": "History of Middle-Earth Box Set #1",
+            "title_suggest": "History of Middle-Earth Box Set #1",
+            "edition_count": 1,
+            "edition_key": 
+                "OL50726609M",
+            
+            
+              "publish_date": 
+                "2024",
+            
+            "publish_year": 
+                "2024",
+            
+            "first_publish_year": "2024",
+            "isbn": 
+                "9780063379848",
+                "0063379848":
+            
+            {"last_modified_i": "1706692989",
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "HarperCollins Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL12634985A",
+                "OL13512970A"
+            ],
+            "author_name": [
+                "Christopher Tolkien",
+                "J. R. R. Tolkien"
+            ],
+            "publisher_facet": [
+                "HarperCollins Publishers"
+            ],
+            "_version_": 1789597309960454148,
+            "author_facet": [
+                "OL12634985A Christopher Tolkien",
+                "OL13512970A J. R. R. Tolkien"
+            ]
+        }},
+        {
+            "key": "/works/OL37625582W",
+            "type": "work",
+            "seed": [
+                "/books/OL50726921M",
+                "/works/OL37625582W",
+                "/authors/OL12634985A",
+                "/authors/OL13512970A"
+            ],
+            "title": "History of Middle-Earth Box Set #2",
+            "title_sort": "History of Middle-Earth Box Set #2",
+            "title_suggest": "History of Middle-Earth Box Set #2",
+            "edition_count": 1,
+            "edition_key": [
+                "OL50726921M"
+            ],
+            "publish_date": [
+                "2024"
+            ],
+            "publish_year": [
+                2024
+            ],
+            "first_publish_year": 2024,
+            "isbn": [
+                "9780063390836",
+                "0063390833"
+            ],
+            "last_modified_i": 1706693107,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "HarperCollins Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL12634985A",
+                "OL13512970A"
+            ],
+            "author_name": [
+                "Christopher Tolkien",
+                "J. R. R. Tolkien"
+            ],
+            "publisher_facet": [
+                "HarperCollins Publishers"
+            ],
+            "_version_": 1789597433727025152,
+            "author_facet": [
+                "OL12634985A Christopher Tolkien",
+                "OL13512970A J. R. R. Tolkien"
+            ]
+        },
+        {
+            "key": "/works/OL37620913W",
+            "type": "work",
+            "seed": [
+                "/books/OL50730520M",
+                "/books/OL50718853M",
+                "/works/OL37620913W",
+                "/authors/OL13512970A"
+            ],
+            "title": "Hobbit",
+            "title_sort": "Hobbit",
+            "title_suggest": "Hobbit",
+            "edition_count": 2,
+            "edition_key": [
+                "OL50730520M",
+                "OL50718853M"
+            ],
+            "publish_date": [
+                "2024"
+            ],
+            "publish_year": [
+                2024
+            ],
+            "first_publish_year": 2024,
+            "isbn": [
+                "9780063388475",
+                "0063388472",
+                "9780063388468",
+                "0063388464"
+            ],
+            "last_modified_i": 1706694514,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "HarperCollins Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13512970A"
+            ],
+            "author_name": [
+                "J. R. R. Tolkien"
+            ],
+            "publisher_facet": [
+                "HarperCollins Publishers"
+            ],
+            "_version_": 1789598909810606081,
+            "author_facet": [
+                "OL13512970A J. R. R. Tolkien"
+            ]
+        },
+        {
+            "key": "/works/OL37622723W",
+            "type": "work",
+            "seed": [
+                "/books/OL50721900M",
+                "/works/OL37622723W",
+                "/authors/OL13512970A",
+                "/authors/OL12634985A",
+                "/authors/OL7958794A"
+            ],
+            "title": "Children of H\u00farin",
+            "title_sort": "Children of H\u00farin",
+            "title_suggest": "Children of H\u00farin",
+            "edition_count": 1,
+            "edition_key": [
+                "OL50721900M"
+            ],
+            "publish_date": [
+                "2024"
+            ],
+            "publish_year": [
+                2024
+            ],
+            "first_publish_year": 2024,
+            "isbn": [
+                "0063379724",
+                "9780063379725"
+            ],
+            "last_modified_i": 1706690253,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "HarperCollins Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13512970A",
+                "OL12634985A",
+                "OL7958794A"
+            ],
+            "author_name": [
+                "J. R. R. Tolkien",
+                "Christopher Tolkien",
+                "Alan Lee"
+            ],
+            "publisher_facet": [
+                "HarperCollins Publishers"
+            ],
+            "_version_": 1789594440564736000,
+            "author_facet": [
+                "OL12634985A Christopher Tolkien",
+                "OL13512970A J. R. R. Tolkien",
+                "OL7958794A Alan Lee"
+            ]
+        },
+        {
+            "key": "/works/OL37621088W",
+            "type": "work",
+            "seed": [
+                "/books/OL50719142M",
+                "/works/OL37621088W",
+                "/authors/OL12634985A",
+                "/authors/OL13512970A"
+            ],
+            "title": "History of Middle-Earth Box Set #3",
+            "title_sort": "History of Middle-Earth Box Set #3",
+            "title_suggest": "History of Middle-Earth Box Set #3",
+            "edition_count": 1,
+            "edition_key": [
+                "OL50719142M"
+            ],
+            "publish_date": [
+                "2024"
+            ],
+            "publish_year": [
+                2024
+            ],
+            "first_publish_year": 2024,
+            "isbn": [
+                "0063390841",
+                "9780063390843"
+            ],
+            "last_modified_i": 1706687980,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "HarperCollins Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL12634985A",
+                "OL13512970A"
+            ],
+            "author_name": [
+                "Christopher Tolkien",
+                "J. R. R. Tolkien"
+            ],
+            "publisher_facet": [
+                "HarperCollins Publishers"
+            ],
+            "_version_": 1789592057027756032,
+            "author_facet": [
+                "OL12634985A Christopher Tolkien",
+                "OL13512970A J. R. R. Tolkien"
+            ]
+        },
+        {
+            "key": "/works/OL37620299W",
+            "type": "work",
+            "seed": [
+                "/books/OL50717853M",
+                "/works/OL37620299W",
+                "/subjects/middle_earth_(imaginary_place)_fiction",
+                "/subjects/fiction_fantasy_epic",
+                "/subjects/british_and_irish_fiction_(fictional_works_by_one_author)",
+                "/authors/OL13512970A"
+            ],
+            "title": "Beren and L\u00fathien",
+            "title_sort": "Beren and L\u00fathien",
+            "title_suggest": "Beren and L\u00fathien",
+            "edition_count": 1,
+            "edition_key": [
+                "OL50717853M"
+            ],
+            "publish_date": [
+                "2024"
+            ],
+            "publish_year": [
+                2024
+            ],
+            "first_publish_year": 2024,
+            "isbn": [
+                "0063376407",
+                "9780063376403"
+            ],
+            "last_modified_i": 1706687458,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "HarperCollins Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13512970A"
+            ],
+            "author_name": [
+                "J. R. R. Tolkien"
+            ],
+            "subject": [
+                "Middle earth (imaginary place), fiction",
+                "Fiction, fantasy, epic",
+                "British and irish fiction (fictional works by one author)"
+            ],
+            "publisher_facet": [
+                "HarperCollins Publishers"
+            ],
+            "subject_facet": [
+                "British and irish fiction (fictional works by one author)",
+                "Fiction, fantasy, epic",
+                "Middle earth (imaginary place), fiction"
+            ],
+            "_version_": 1789591510109388800,
+            "author_facet": [
+                "OL13512970A J. R. R. Tolkien"
+            ],
+            "subject_key": [
+                "british_and_irish_fiction_(fictional_works_by_one_author)",
+                "fiction_fantasy_epic",
+                "middle_earth_(imaginary_place)_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL37767235W",
+            "type": "work",
+            "seed": [
+                "/books/OL50964314M",
+                "/works/OL37767235W",
+                "/authors/OL13512970A"
+            ],
+            "title": "Silmarillion Collector's Edition",
+            "title_sort": "Silmarillion Collector's Edition",
+            "title_suggest": "Silmarillion Collector's Edition",
+            "edition_count": 1,
+            "edition_key": [
+                "OL50964314M"
+            ],
+            "publish_date": [
+                "2024"
+            ],
+            "publish_year": [
+                2024
+            ],
+            "first_publish_year": 2024,
+            "isbn": [
+                "006339619X",
+                "9780063396197"
+            ],
+            "last_modified_i": 1706767048,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "HarperCollins Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13512970A"
+            ],
+            "author_name": [
+                "J. R. R. Tolkien"
+            ],
+            "publisher_facet": [
+                "HarperCollins Publishers"
+            ],
+            "_version_": 1789674967345922048,
+            "author_facet": [
+                "OL13512970A J. R. R. Tolkien"
+            ]
+        },
+        {
+            "key": "/works/OL37768102W",
+            "type": "work",
+            "seed": [
+                "/books/OL50965438M",
+                "/works/OL37768102W",
+                "/authors/OL13512970A"
+            ],
+            "title": "Hobbit Collector's Edition",
+            "title_sort": "Hobbit Collector's Edition",
+            "title_suggest": "Hobbit Collector's Edition",
+            "edition_count": 1,
+            "edition_key": [
+                "OL50965438M"
+            ],
+            "publish_date": [
+                "2024"
+            ],
+            "publish_year": [
+                2024
+            ],
+            "first_publish_year": 2024,
+            "isbn": [
+                "9780063396203",
+                "0063396203"
+            ],
+            "last_modified_i": 1706768013,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "HarperCollins Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13512970A"
+            ],
+            "author_name": [
+                "J. R. R. Tolkien"
+            ],
+            "publisher_facet": [
+                "HarperCollins Publishers"
+            ],
+            "_version_": 1789675981720518678,
+            "author_facet": [
+                "OL13512970A J. R. R. Tolkien"
+            ]
+        },
+        {
+            "author_alternative_name": [
+                "Pauline Baynes Color Illus"
+            ],
+            "author_key": [
+                "OL13512970A",
+                "OL2623691A",
+                "OL39015A",
+                "OL1078747A"
+            ],
+            "author_name": [
+                "J. R. R. Tolkien",
+                "Christina Scull",
+                "Wayne G. Hammond",
+                "Pauline Baynes"
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL51056333M"
+            ],
+            "first_publish_year": 2024,
+            "has_fulltext": false,
+            "isbn": [
+                "0008700192",
+                "9780008700195"
+            ],
+            "key": "/works/OL37835528W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1708157108,
+            "public_scan_b": false,
+            "publish_date": [
+                "2024"
+            ],
+            "publish_year": [
+                2024
+            ],
+            "publisher": [
+                "HarperCollins Publishers Limited"
+            ],
+            "seed": [
+                "/books/OL51056333M",
+                "/works/OL37835528W",
+                "/authors/OL13512970A",
+                "/authors/OL2623691A",
+                "/authors/OL39015A",
+                "/authors/OL1078747A"
+            ],
+            "title": "Adventures of Tom Bombadil",
+            "title_sort": "Adventures of Tom Bombadil",
+            "title_suggest": "Adventures of Tom Bombadil",
+            "type": "work",
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher_facet": [
+                "HarperCollins Publishers Limited"
+            ],
+            "_version_": 1791132549240586240,
+            "author_facet": [
+                "OL1078747A Pauline Baynes",
+                "OL13512970A J. R. R. Tolkien",
+                "OL2623691A Christina Scull",
+                "OL39015A Wayne G. Hammond"
+            ]
+        },
+        {
+            "author_key": [
+                "OL13512970A"
+            ],
+            "author_name": [
+                "J. R. R. Tolkien"
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL51097690M"
+            ],
+            "first_publish_year": 2024,
+            "has_fulltext": false,
+            "isbn": [
+                "0063412616",
+                "9780063412613"
+            ],
+            "key": "/works/OL37858499W",
+            "language": [
+                "eng"
+            ],
+            "last_modified_i": 1708173522,
+            "public_scan_b": false,
+            "publish_date": [
+                "2024"
+            ],
+            "publish_year": [
+                2024
+            ],
+            "publisher": [
+                "HarperCollins Publishers"
+            ],
+            "seed": [
+                "/books/OL51097690M",
+                "/works/OL37858499W",
+                "/authors/OL13512970A"
+            ],
+            "title": "Fellowship of the Ring Collector's Edition",
+            "title_sort": "Fellowship of the Ring Collector's Edition",
+            "title_suggest": "Fellowship of the Ring Collector's Edition",
+            "type": "work",
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher_facet": [
+                "HarperCollins Publishers"
+            ],
+            "_version_": 1791149760540835841,
+            "author_facet": [
+                "OL13512970A J. R. R. Tolkien"
+            ]
+        },
+        {
+            "author_key": [
+                "OL13512970A"
+            ],
+            "author_name": [
+                "J. R. R. Tolkien"
+            ],
+            "ebook_access": "no_ebook",
+            "ebook_count_i": 0,
+            "edition_count": 1,
+            "edition_key": [
+                "OL51102935M"
+            ],
+            "first_publish_year": 2024,
+            "has_fulltext": false,
+            "isbn": [
+                "0063412632",
+                "9780063412637"]
+              }]}} 
+          
